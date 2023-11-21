@@ -1,0 +1,29 @@
+#addbtn {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+}
+
+#addbtn2 {
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin-top: 10px;
+}
+
+.inp {
+    background-color: aquamarine;
+    color: blue;
+    border: 2px darkblue bold;
+}
